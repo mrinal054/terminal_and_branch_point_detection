@@ -23,7 +23,7 @@ For branch point: <br>
 * If the summation is greater than 3, then it is a branch point
  
 #### Screenshot
-Original image:
+Original image:<br>
 ![pic 2](pic-2.jpg) <br>
 Output: (reds are terminal points, purples are branch points)
 ![pic 3](pic-3.jpg)
